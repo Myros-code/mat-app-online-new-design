@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mat-app-online-new-design/static/css/main.cab72725.chunk.css",
+    "main.js": "/mat-app-online-new-design/static/js/main.942f1129.chunk.js",
+    "main.js.map": "/mat-app-online-new-design/static/js/main.942f1129.chunk.js.map",
+    "runtime-main.js": "/mat-app-online-new-design/static/js/runtime-main.e3107bca.js",
+    "runtime-main.js.map": "/mat-app-online-new-design/static/js/runtime-main.e3107bca.js.map",
+    "static/css/2.9a5322c9.chunk.css": "/mat-app-online-new-design/static/css/2.9a5322c9.chunk.css",
+    "static/js/2.ae894f36.chunk.js": "/mat-app-online-new-design/static/js/2.ae894f36.chunk.js",
+    "static/js/2.ae894f36.chunk.js.map": "/mat-app-online-new-design/static/js/2.ae894f36.chunk.js.map",
+    "index.html": "/mat-app-online-new-design/index.html",
+    "static/css/2.9a5322c9.chunk.css.map": "/mat-app-online-new-design/static/css/2.9a5322c9.chunk.css.map",
+    "static/css/main.cab72725.chunk.css.map": "/mat-app-online-new-design/static/css/main.cab72725.chunk.css.map",
+    "static/js/2.ae894f36.chunk.js.LICENSE.txt": "/mat-app-online-new-design/static/js/2.ae894f36.chunk.js.LICENSE.txt",
+    "static/media/edit.1610f3fa.svg": "/mat-app-online-new-design/static/media/edit.1610f3fa.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3107bca.js",
+    "static/css/2.9a5322c9.chunk.css",
+    "static/js/2.ae894f36.chunk.js",
+    "static/css/main.cab72725.chunk.css",
+    "static/js/main.942f1129.chunk.js"
+  ]
+}
